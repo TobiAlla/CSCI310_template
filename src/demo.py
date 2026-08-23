@@ -1,10 +1,12 @@
 """
-hello.py
+demo.py
 ====================================
 This is an example file with correct docstring examples
 
-| Author: Seth McNeill
-| Date: 2025 September 07
+| Author: Tobias Allerstorfer
+| Date: 2026 August 22
+
+This is a project that serves as a demo to show how we should do our projects in the future
 """
 
 class SayHello:
